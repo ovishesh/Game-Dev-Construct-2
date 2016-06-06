@@ -12,6 +12,9 @@
 
 ### 6. Implementing Globals Scoring and Leaderboards(Jason)
 
+1. [Setting up project to convert json to an array] (http://jamesqquick.com/json-to-construct-2-array/)
+2. [Creating a table in Azure and then making a GET request and displaying the results to the user] (http://jamesqquick.com/construct-2-high-scores-with-azure-mobile-apps/)
+
 ### 7. Facebook Integration(Jason or Brian)
 
 ### 8. Publish Game to Azure Web Apps(Brian)
